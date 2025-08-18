@@ -12,7 +12,7 @@ Recon with Nmap + NSE
 
 ARP spoofing scenarios
 
-🚀 Usage
+🚀 Usage:
 bash checker.sh
 --------------------------------------------------------------------------
 📌 ZX301 – Penetration Testing | Project: VULNER
@@ -27,7 +27,7 @@ Hydra brute-force for common services
 
 Auto-logging to files
 
-🚀 Usage
+🚀 Usage:
 bash vulner.sh
 --------------------------------------------------------------------------
 📌 ZX305 – Network Security | Project: Domain Mapper
@@ -44,7 +44,7 @@ CrackMapExec + Impacket integration
 
 Report generation (PDF via Pandoc)
 
-🚀 Usage
+🚀 Usage:
 bash domain-mapper.sh
 --------------------------------------------------------------------------
 📌 NX212 – Windows Forensics | Project: Analyzer
@@ -59,7 +59,7 @@ Memory analysis with Volatility
 
 Strings parsing & report generation
 
-🚀 Usage
+🚀 Usage:
 bash analyzer.sh
 --------------------------------------------------------------------------
 📌 NX201 – Basic Network Scanning
@@ -74,7 +74,7 @@ Service detection
 
 Saves logs to files
 
-🚀 Usage
+🚀 Usage:
 bash scan.sh
 
 All rights reserved © 2025 Afek Tzabari.
